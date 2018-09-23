@@ -11,6 +11,9 @@ Use the Assets File, to find the images used.
 
 # To operate:
 Install the apk file! 
+
 That's it!
+
 As long as you have a device with android version 7.0+, it will work.
+
 This app provides a 2 eyed view, so will be perfect for Google Cardboard viewing. 
